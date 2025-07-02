@@ -26,7 +26,9 @@ java -cp src Main
 ## Technologies Used:
 
 Java (JDK 8+)
+
 Core Java concepts:
+
 Classes and Objects
 Exception Handling
 File I/O (java.io)
@@ -36,11 +38,21 @@ User Input via Scanner
 ## Features:
 
 -Read from an existing text file
+
 -Write (overwrite) content to a file
+
 -Append content to a new file
+
 -Handles invalid input gracefully
+
 -Uses BufferedReader and BufferedWriter for performance
+
 -Organized code into separate classes (Main, FileHandler)
+
 -User-friendly and clear command-line interface
 
 ## Screenshot:
+
+![Image](https://github.com/user-attachments/assets/e30dca30-18f8-4f63-851d-0c66cc9cb1e8)
+
+![Image](https://github.com/user-attachments/assets/5539c86f-8f32-44f7-884c-444915254278)

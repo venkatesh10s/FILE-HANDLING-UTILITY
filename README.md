@@ -1,5 +1,17 @@
 # Java File Handling Utility
 
+"COMPANY": CODETECH IT SOLUTIONS
+
+"NAME": S VENKATESH
+
+"INTERN ID": CT04DF1907
+
+"DOMAIN": FULL STACK DEVELOPER
+
+"DURATION": 4 WEEKS
+
+"MENTOR": NEELA SANTOSH KUMAR
+
 This is a simple and powerful **Java-based console application** developed as part of my internship at **CodTech IT Solutions**. The main goal of this project is to provide a utility that can read, write, and modify text files using core Java functionality. The project is designed to be clean, user-friendly, and extendable for any future enhancements.
 
 ## Project Objective
